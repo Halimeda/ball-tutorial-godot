@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bc04jgq832nvc"]
 
-[ext_resource type="Script" uid="uid://bml21q6iedb32" path="res://Main.gd" id="1"]
+[ext_resource type="Script" uid="uid://bml21q6iedb32" path="res://game.gd" id="1"]
 [ext_resource type="PackedScene" uid="uid://dm5jrnxmxnuof" path="res://Ball.tscn" id="2"]
 [ext_resource type="Texture2D" uid="uid://dkq1swbmmxmbq" path="res://assets/Bouncy Platform Long.png" id="3"]
 [ext_resource type="Texture2D" uid="uid://dv6rx85s1gy3i" path="res://assets/ballBlue_10.png" id="4_cm0pq"]
